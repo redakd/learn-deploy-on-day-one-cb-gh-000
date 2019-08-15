@@ -1,6 +1,14 @@
 /* GLOBAL STYLES
 ======================== */
 
+#rida-kodad-cover {
+  background-image: url("https://i.imgur.com/YGtbE5U.jpg");
+}
+
+#rida-kodad-card {
+  background-image: url("https://i.imgur.com/8vYQiPP.jpg");
+}
+
 *, *:before, *:after {
   box-sizing: border-box;
   /*border: 1px solid red;*/
